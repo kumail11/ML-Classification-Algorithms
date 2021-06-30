@@ -1,5 +1,5 @@
 # ML-Classification-Algorithms
-### Apply Machine Learning (ML) Classification Algorithms on 3 different Datasets..
+## Apply Machine Learning (ML) Classification Algorithms on 3 different Datasets..
 ## Balance Scale Dataset..
 ![image](https://user-images.githubusercontent.com/40884947/123967304-9ec37780-d9cf-11eb-8d22-0586e0fe6d06.png)
 ## Breast Cancer Dataset..
